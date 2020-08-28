@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello. . .  👋
+
+I'm a passionate software engineer who lives in small city near Kolhapur. 
+Other than coding, I love to read books, blogs, watch some movies.
+
+You guys can visit my portfolio at [vishvaraj.me](http://vishvaraj.me) And may be read some small stories writen about life around me at [blog.vishvaraj.me](http://blog.vishvaraj.me "Vishvaraj's Blog")
+
+If you want to connect or have any queries you can email me on [vishvarajdhnwd120@gmail.com](mailto:vishvarajdhnwd120@gmail.com "write to vishvaraj") or skype : [iamvishvaraj](live:iamvishvaraj)
 
 <!--
 **imvishvaraj/imvishvaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
