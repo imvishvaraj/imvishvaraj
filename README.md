@@ -5,7 +5,7 @@ Other than coding, I love to read books, blogs, watch some movies.
 
 You guys can visit my portfolio at [vishvaraj.me](http://vishvaraj.me) And may be read some small stories writen about life around me at [blog.vishvaraj.me](http://blog.vishvaraj.me "Vishvaraj's Blog")
 
-If you want to connect or have any queries you can email me on [vishvarajdhnwd120@gmail.com](mailto:vishvarajdhnwd120@gmail.com "write to vishvaraj") or skype : [iamvishvaraj](live:iamvishvaraj). You can connect me on [LinkedIn - Vishvaraj](https://www.linkedin.com/in/vishvaraj/).
+If you want to contact me on skype : [iamvishvaraj](live:iamvishvaraj) or You can connect me on [LinkedIn - Vishvaraj](https://www.linkedin.com/in/vishvaraj/).
 
 <!--
 **imvishvaraj/imvishvaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
