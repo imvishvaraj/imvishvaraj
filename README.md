@@ -1,6 +1,8 @@
 ### Hello. . .  👋
 
-I'm a passionate software engineer who lives in small city near Kolhapur. 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&pause=1000&width=435&lines=hi%2C+I+am+Software+Engineer;loves+to+build+futuristic+products;sometime+write+on+blog.vishvaraj.me;nice+to+meet+you+...)](https://git.io/typing-svg)
+
+<!-- I'm a passionate software engineer who lives in small city near Kolhapur. -->
 Other than coding, I love to read books, blogs, watch some movies.
 
 You guys can visit my portfolio at [vishvaraj.me](http://vishvaraj.me) And may be read some small stories writen about life around me at [blog.vishvaraj.me](http://blog.vishvaraj.me "Vishvaraj's Blog")
