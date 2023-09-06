@@ -1,6 +1,6 @@
 ### Hello. . .  👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&pause=1000&width=435&lines=hi%2C+I+am+Software+Engineer;building+futuristic+products;sometime+write+on+blog.vishvaraj.me;nice+to+meet+you+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&pause=1000&width=435&lines=I+am+Software+Engineer;building+futuristic+products;sometime+write+on+blog.vishvaraj.me;nice+to+meet+you+...)](https://git.io/typing-svg)
 
 <!-- I'm a passionate software engineer who lives in small city near Kolhapur. -->
 Other than coding, I love to read books, blogs, watch some movies.
