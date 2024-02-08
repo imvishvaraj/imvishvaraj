@@ -11,6 +11,9 @@ If you want to contact me on skype : [iamvishvaraj](live:iamvishvaraj) or You ca
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=imvishvaraj&theme=transparent)](https://git.io/streak-stats)
 
+Have an idea lets discuss it - http://link.vishvaraj.me/free-consultation
+Want to build amazing projects lets schedule call - https://calendly.com/vishvaraj
+
 <!--
 **imvishvaraj/imvishvaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
